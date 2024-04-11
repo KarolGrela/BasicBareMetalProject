@@ -1,0 +1,10 @@
+../Core/Src/gpio.c:39:6:MX_GPIO_Init	32	static
+../Core/Src/gpio.c:80:6:gpio_setDigOut	16	static
+../Core/Src/gpio.c:85:6:gpio_resetDigOut	16	static
+../Core/Src/gpio.c:90:6:gpio_toggleDigOut	16	static
+../Core/Src/gpio.c:97:6:gpio_getDigIn	16	static
+../Core/Src/gpio.c:166:6:HAL_GPIO_EXTI_Callback	24	static
+../Core/Src/gpio.c:197:6:gpio_InitSequence	32	static
+../Core/Src/gpio.c:215:6:gpio_pollLedTimer	8	static
+../Core/Src/gpio.c:223:6:gpio_pollLeftBtnTimer	8	static
+../Core/Src/gpio.c:231:6:gpio_pollRightBtnTimer	8	static
